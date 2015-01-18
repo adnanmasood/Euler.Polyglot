@@ -1,6 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E6E0F58-24AC-4DE7-9AE2-AC800354BD11}"
+	ProjectSection(SolutionItems) = preProject
+		EulerProblems.txt = EulerProblems.txt
+	EndProjectSection
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler.Polyglot.CS", "Euler.Polyglot.CS\Euler.Polyglot.CS.csproj", "{1441D1A3-EE8F-405E-BB1A-747974A0EC59}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Euler.Polyglot.FS", "Euler.Polyglot.FS\Euler.Polyglot.FS.fsproj", "{CE8403F4-A1B5-40BD-88F0-E52C2183F9F4}"
@@ -9,10 +16,7 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Euler.Polyglot.Py", "Euler.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Euler.Polyglot.CPP.Test", "Euler.Polyglot.CPP.Test\Euler.Polyglot.CPP.Test.vcxproj", "{9757CB21-B840-49A6-B057-9F322E543DD6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E6E0F58-24AC-4DE7-9AE2-AC800354BD11}"
-	ProjectSection(SolutionItems) = preProject
-		EulerProblems.txt = EulerProblems.txt
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler.Polyglot.CS.Test", "Euler.Polyglot.CS.Test\Euler.Polyglot.CS.Test.csproj", "{B581D809-39A1-4A46-8846-8A2992161059}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -64,6 +68,16 @@ Global
 		{9757CB21-B840-49A6-B057-9F322E543DD6}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{9757CB21-B840-49A6-B057-9F322E543DD6}.Release|Win32.ActiveCfg = Release|Win32
 		{9757CB21-B840-49A6-B057-9F322E543DD6}.Release|Win32.Build.0 = Release|Win32
+		{B581D809-39A1-4A46-8846-8A2992161059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B581D809-39A1-4A46-8846-8A2992161059}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

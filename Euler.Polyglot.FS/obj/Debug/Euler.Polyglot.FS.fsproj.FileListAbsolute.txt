@@ -3,6 +3,5 @@ c:\dev\Euler.Polyglot\Euler.Polyglot.FS\bin\Debug\Euler.Polyglot.FS.dll
 c:\dev\Euler.Polyglot\Euler.Polyglot.FS\bin\Debug\Euler.Polyglot.FS.pdb
 c:\dev\Euler.Polyglot\Euler.Polyglot.FS\bin\Debug\FSharp.Core.dll
 c:\dev\Euler.Polyglot\Euler.Polyglot.FS\bin\Debug\FSharp.Core.xml
-c:\dev\Euler.Polyglot\Euler.Polyglot.FS\obj\Debug\Euler.Polyglot.FS.fsprojResolveAssemblyReference.cache
 c:\dev\Euler.Polyglot\Euler.Polyglot.FS\obj\Debug\Euler.Polyglot.FS.dll
 c:\dev\Euler.Polyglot\Euler.Polyglot.FS\obj\Debug\Euler.Polyglot.FS.pdb
