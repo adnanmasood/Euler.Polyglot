@@ -2,3 +2,4 @@ c:\dev\Euler.Polyglot\Euler.Polyglot.CS\bin\Debug\Euler.Polyglot.CS.dll
 c:\dev\Euler.Polyglot\Euler.Polyglot.CS\bin\Debug\Euler.Polyglot.CS.pdb
 c:\dev\Euler.Polyglot\Euler.Polyglot.CS\obj\Debug\Euler.Polyglot.CS.dll
 c:\dev\Euler.Polyglot\Euler.Polyglot.CS\obj\Debug\Euler.Polyglot.CS.pdb
+C:\dev\Euler.Polyglot\Euler.Polyglot.CS\obj\Debug\Euler.Polyglot.CS.csprojResolveAssemblyReference.cache
