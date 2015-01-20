@@ -16,7 +16,7 @@ namespace Euler.Polyglot.CS
     {
         public long FibonnaciSum(int n)
         {
-            long sum=0, cnt=0, fib=0;
+            long sum=0, fib=0;
             long prev=1, curr=1;
             while (fib < n)
             {

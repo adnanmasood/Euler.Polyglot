@@ -15,7 +15,6 @@ namespace Euler.Polyglot.CS
         public ArrayList FindMultiples(int n, int[] mult)
         {
             ArrayList Multiples = new ArrayList(); 
-            int cnt=0;
             for (int i=2; i<n; i++)
             {
                 foreach (int m in mult)

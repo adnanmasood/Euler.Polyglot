@@ -43,5 +43,12 @@ namespace Euler.Polyglot.CS.Test
             Assert.AreEqual(largestPrimeFactor, 6857);
         }
 
+        [TestMethod]
+        public void Problem4Test()
+        {
+            var p4 = new Problem4();
+            var list = p4.FindLargestPalindrome();
+        }
+
     }
 }
