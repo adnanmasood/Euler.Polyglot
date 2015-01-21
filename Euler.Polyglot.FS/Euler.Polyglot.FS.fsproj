@@ -42,6 +42,7 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Problem5.fs" />
     <Compile Include="Problem2.fs" />
     <None Include="Script.fsx" />
     <Compile Include="Problem1.fs" />

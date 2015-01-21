@@ -50,5 +50,13 @@ namespace Euler.Polyglot.CS.Test
             var list = p4.FindLargestPalindrome();
         }
 
+        [TestMethod]
+        public void Problem5Test()
+        {
+            var p4 = new Problem5();
+            var res= p4.FindLargestDivisor(10); //2520
+            res = p4.FindLargestDivisor(20); //232792560
+        }
+
     }
 }
