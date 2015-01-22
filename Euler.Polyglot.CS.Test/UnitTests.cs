@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Euler.Polyglot;
 using System.Collections;
@@ -53,9 +54,23 @@ namespace Euler.Polyglot.CS.Test
         [TestMethod]
         public void Problem5Test()
         {
-            var p4 = new Problem5();
-            var res= p4.FindLargestDivisor(10); //2520
-            res = p4.FindLargestDivisor(20); //232792560
+            var p5 = new Problem5();
+            var res= p5.FindLargestDivisor(10); //2520
+            res = p5.FindLargestDivisor(20); //232792560
+        }
+
+        [TestMethod]
+        public void Problem6Test()
+        {
+            var p6 = new Problem6();
+            var s1 = p6.SumOfSquares(Enumerable.Range(1, 10).Select(x => x));
+            var s2 = p6.SquareOfSum(Enumerable.Range(1, 10).Select(x => x));
+            Assert.AreEqual(s2 - s1, 2640);
+
+            s1 = p6.SumOfSquares(Enumerable.Range(1, 100).Select(x => x));
+            s2 = p6.SquareOfSum(Enumerable.Range(1, 100).Select(x => x));
+            Assert.AreEqual(s2 - s1, 25164150);
+                   
         }
 
     }
