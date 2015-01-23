@@ -42,13 +42,14 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Problem6.fs" />
+    <Compile Include="Problem7.fs" />
     <Compile Include="Problem2.fs" />
     <None Include="Script.fsx" />
     <Compile Include="Problem1.fs" />
     <Compile Include="Problem3.fs" />
     <Compile Include="Problem4.fs" />
     <Compile Include="Problem5.fs" />
+    <Compile Include="Problem6.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>

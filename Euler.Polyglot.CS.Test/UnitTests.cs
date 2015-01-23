@@ -73,5 +73,19 @@ namespace Euler.Polyglot.CS.Test
                    
         }
 
+
+        [TestMethod]
+        public void Problem7Test()
+        {
+            var p7 = new Problem7();
+            var res = p7.GetNthPrime(6);
+            Assert.AreEqual(res, 13);
+
+            res = p7.GetNthPrime(10001);
+            Assert.AreEqual(res, 104743);
+
+            
+        }
+
     }
 }
