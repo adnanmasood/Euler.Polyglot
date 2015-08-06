@@ -83,8 +83,16 @@ namespace Euler.Polyglot.CS.Test
 
             res = p7.GetNthPrime(10001);
             Assert.AreEqual(res, 104743);
+        }
 
-            
+        [TestMethod]
+        public void Problem8Test()
+        {
+            var p8 = new Problem8();
+            var res = p8.GreaterProduct();
+            Assert.AreEqual(res, 13);
+
+
         }
 
     }
