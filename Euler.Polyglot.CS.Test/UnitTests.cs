@@ -90,7 +90,7 @@ namespace Euler.Polyglot.CS.Test
         {
             var p8 = new Problem8();
             var res = p8.GreaterProduct();
-            Assert.AreEqual(res, 13);
+            Assert.AreEqual(res, 23514624000);
 
 
         }
