@@ -1,9 +1,0 @@
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\obj\Debug\Euler.Polyglot.CS.Test.csprojResolveAssemblyReference.cache
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\bin\Debug\Euler.Polyglot.CS.Test.dll
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\bin\Debug\Euler.Polyglot.CS.Test.pdb
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\bin\Debug\Euler.Polyglot.CS.dll
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\bin\Debug\Euler.Polyglot.CS.pdb
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\obj\Debug\Euler.Polyglot.CS.Test.dll
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\obj\Debug\Euler.Polyglot.CS.Test.pdb
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\dev\Euler.Polyglot\Euler.Polyglot.CS.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
